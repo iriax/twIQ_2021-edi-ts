@@ -11,4 +11,4 @@ Iria Estepa Villaverde @iriax
 ## Objetivos del trabajo
 
 Vamos a presentar este trabajo con el objetivo de facilitar las comidas del día a día ofreciendo una numerosa lista de recetas. 
-Para ello  crearemos un lugar en el que el usuario tendrá fácil acceso a una serie de platos y lista de alimentos adaptada a cada una de las distintas situaciones en las que se encuentre. Esto estará compuesto por varios menús adecuados a alérgenos, embarazadas, distintas festividades…
+Para ello  crearemos un lugar en el que el usuario tendrá fácil acceso a una serie de platos y lista de alimentos adaptada a cada una de las distintas situaciones en las que se encuentre. Esto estará compuesto por varios menús adecuados a alérgicos, embarazadas, distintas festividades…para que los usuarios tengan una amplio abanico de opciones en el podrán elegir.
